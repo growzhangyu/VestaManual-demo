@@ -26,4 +26,5 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 
 html_theme = 'alabaster'
 html_static_path = ['_static']
+html_last_updated_fmt = '%Y-%m-%d'
 extensions = ['sphinx_last_updated_by_git']
