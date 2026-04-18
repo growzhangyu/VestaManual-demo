@@ -1,32 +1,60 @@
-#Feature 页面模板
-index.rst
-overview.rst
-gallery.rst
-features/
-    feature_a.rst
-    feature_b.rst
-Download.rst
-forum.rst
+Features
+========
 
-1. What it is        → overview
-2. Why it exists     → overview + index
-3. What it does      → features
-4. What it looks like→ gallery
-5. How it works      → architecture
-6. How to use        → usage
-7. How to get it     → download/get started
+This section outlines the key capabilities of the documentation system and how they support real-world product documentation.
 
+---
 
-Feature: Document Export
+Structured Documentation Design
+-------------------------------
 
-What it does
-Allows users to export reports as PDF.
+**What it does**  
+Provides a clear and logical structure for organizing complex information.
 
-Why it matters
-Users often need offline sharing or archiving.
+**Why it matters**  
+A well-structured system helps users quickly locate relevant content and reduces cognitive load.
 
-How to use
+**How it’s demonstrated**  
+This site is divided into modular sections such as Overview, Features, Architecture, and Usage.
 
-1. Click export button
-2. Select format
-3. Download file
+---
+
+Scalable Content Organization
+-----------------------------
+
+**What it does**  
+Supports content growth without losing clarity or consistency.
+
+**Why it matters**  
+As documentation expands, maintaining structure becomes critical to avoid fragmentation.
+
+**How it’s demonstrated**  
+Content is organized hierarchically, allowing new sections and features to be added without restructuring the entire system.
+
+---
+
+Static Site Deployment Workflow
+-------------------------------
+
+**What it does**  
+Enables a reliable and repeatable publishing process.
+
+**Why it matters**  
+Stable deployment ensures documentation is always accessible and up to date.
+
+**How it’s demonstrated**  
+This project is built using :contentReference[oaicite:0]{index=0} and deployed as a static website.
+
+---
+
+Maintainable Documentation System
+---------------------------------
+
+**What it does**  
+Ensures long-term maintainability through modular design.
+
+**Why it matters**  
+Maintainable documentation reduces technical debt and onboarding time.
+
+**How it’s demonstrated**  
+Each page is focused and independent, allowing updates without affecting other sections.
