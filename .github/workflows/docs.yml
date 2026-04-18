@@ -33,6 +33,9 @@ jobs:
         with:
           path: _build/html
 
+      - name: Check installed packages 
+        run: pip list
+
   deploy:
     needs: build
     runs-on: ubuntu-latest
