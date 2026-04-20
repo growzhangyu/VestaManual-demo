@@ -27,7 +27,8 @@ jobs:
       - name: Install dependencies
         run: |
           pip install --upgrade pip
-          pip install sphinx furo sphinx-last-updated-by-git -r requirements.txt
+          pip install sphinx furo sphinx-last-updated-by-git 
+          pip install -r requirements.txt
 
       - name: Build docs
         run: make html
