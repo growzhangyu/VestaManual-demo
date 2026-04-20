@@ -25,7 +25,9 @@ jobs:
           python-version: "3.10"
 
       - name: Install dependencies
-        run: pip install sphinx furo sphinx-last-updated-by-git -r requirements.txt
+        run: |
+          pip install --upgrade pip
+          pip install sphinx furo sphinx-last-updated-by-git -r requirements.txt
 
       - name: Build docs
         run: make html
@@ -35,13 +37,18 @@ jobs:
         with:
           path: _build/html
 
-      - name: Check installed packages 
+      - name: Check installed packages
         run: pip list
 
   deploy:
     needs: build
     runs-on: ubuntu-latest
 
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
     steps:
       - name: Deploy to GitHub Pages
-        uses: actions/deploy-pages@v4 
+        id: deployment
+        uses: actions/deploy-pages@v4
