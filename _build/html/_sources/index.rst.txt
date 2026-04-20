@@ -3,21 +3,23 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Demo-vesta documentation
+Bambu X2D Documentation
 ========================
 
-Add your content using ``reStructuredText`` syntax. See the
-`reStructuredText <https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html>`_
-documentation for details.
+Welcome to growzhangyu's PRODUCT DEMO demonstration website! I'll be guiding you through a BRANDNEW 3-D printer from Bambu.
+Let's take a look at it immediately.
 
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
-   Overview
-   Features
-   Gallery
-   Architecture
-   Usage
-   Installation
+   features
+   printing_workflow
+   gallery
+   installation
+   quick_start
+   troubleshooting
+   slicing_basics
+   
+   

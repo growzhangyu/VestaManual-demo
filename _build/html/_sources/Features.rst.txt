@@ -1,60 +1,152 @@
-Features
-========
+Bambu Lab X2D
+=============
 
-This section outlines the key capabilities of the documentation system and how they support real-world product documentation.
+The Next-Generation Smart 3D Printing Experience
+------------------------------------------------
 
----
+The X2D is designed to remove complexity from 3D printing and deliver a truly **start-and-print experience** with high speed, high reliability, and deep automation.
 
-Structured Documentation Design
--------------------------------
-
-**What it does**  
-Provides a clear and logical structure for organizing complex information.
-
-**Why it matters**  
-A well-structured system helps users quickly locate relevant content and reduces cognitive load.
-
-**How it’s demonstrated**  
-This site is divided into modular sections such as Overview, Features, Architecture, and Usage.
+It is not just an upgrade in hardware—it is a complete workflow redesign.
 
 ---
 
-Scalable Content Organization
+Why X2D
+--------
+
+Traditional 3D printing often requires calibration, tuning, and repeated trial-and-error.
+
+X2D changes this experience:
+
+- Minimal setup
+- Fully automated calibration
+- Consistent first-print success
+- Seamless software integration
+
+You focus on creation, not configuration.
+
+---
+
+Built for Speed and Stability
 -----------------------------
 
-**What it does**  
-Supports content growth without losing clarity or consistency.
+X2D delivers high-speed printing without sacrificing stability.
 
-**Why it matters**  
-As documentation expands, maintaining structure becomes critical to avoid fragmentation.
+Key benefits:
 
-**How it’s demonstrated**  
-Content is organized hierarchically, allowing new sections and features to be added without restructuring the entire system.
+- Faster print cycles for rapid prototyping
+- Stable extrusion at high speed
+- Reduced print failures
+- Consistent layer quality
 
----
-
-Static Site Deployment Workflow
--------------------------------
-
-**What it does**  
-Enables a reliable and repeatable publishing process.
-
-**Why it matters**  
-Stable deployment ensures documentation is always accessible and up to date.
-
-**How it’s demonstrated**  
-This project is built using :contentReference[oaicite:0]{index=0} and deployed as a static website.
+Result:
+More output in less time, with fewer interruptions.
 
 ---
 
-Maintainable Documentation System
----------------------------------
+Fully Automated Printing Workflow
+----------------------------------
 
-**What it does**  
-Ensures long-term maintainability through modular design.
+From setup to finished print, X2D is designed to be hands-free.
 
-**Why it matters**  
-Maintainable documentation reduces technical debt and onboarding time.
+- Automatic calibration on startup
+- Intelligent material handling
+- One-click slicing and printing
+- Smart error detection
 
-**How it’s demonstrated**  
-Each page is focused and independent, allowing updates without affecting other sections.
+Result:
+Even beginners can achieve professional-grade results.
+
+---
+
+Comparison: Evolution within Bambu Lab
+---------------------------------------
+
+X2D represents a significant step forward from previous best-selling models.
+
+.. list-table::
+   :widths: 30 35 35
+   :header-rows: 1
+
+   * - Experience Area
+     - Previous Generation
+     - X2D
+   * - Setup Process
+     - Manual calibration required
+     - Fully automatic setup
+   * - Learning Curve
+     - Moderate
+     - Minimal
+   * - First Print Success
+     - Good
+     - Highly consistent
+   * - Workflow
+     - Step-by-step manual process
+     - One-click printing experience
+
+Key Improvement:
+X2D removes friction from the entire printing workflow.
+
+---
+
+Comparison: X2D vs Competitor Printers
+---------------------------------------
+
+Compared to similar-positioned printers in the market, X2D focuses on **integration and usability**.
+
+.. list-table::
+   :widths: 30 35 35
+   :header-rows: 1
+
+   * - Category
+     - Typical Competitor Models
+     - Bambu Lab X2D
+   * - Ecosystem
+     - Fragmented tools and workflows
+     - Fully integrated system
+   * - Automation Level
+     - Limited automation
+     - End-to-end automation
+   * - Ease of Use
+     - Requires tuning and experience
+     - Beginner-friendly operation
+   * - Reliability
+     - Variable depending on setup
+     - High consistency out of the box
+
+Key Insight:
+X2D prioritizes **user experience over manual control complexity**.
+
+---
+
+Designed for Creators
+---------------------
+
+Whether you are a beginner or an advanced user, X2D adapts to your workflow.
+
+Ideal for:
+
+- Product designers
+- Engineers
+- Educators
+- Hobby creators
+
+---
+
+The Bambu Lab Advantage
+-----------------------
+
+X2D reflects Bambu Lab’s core philosophy:
+
+- Reduce friction in creation
+- Automate technical complexity
+- Deliver reliable performance at scale
+- Make advanced 3D printing accessible to everyone
+
+---
+
+Get Started
+-----------
+
+Experience the next generation of 3D printing with X2D.
+
+Start printing in minutes, not hours.

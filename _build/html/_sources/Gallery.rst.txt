@@ -1,45 +1,97 @@
-Gallery
+Gallery: X2D
 =======
 
-This section presents visual examples of the documentation system, demonstrating layout, structure, and readability.
+.. grid:: 4
+   :gutter: 2
 
----
+   .. grid-item::
 
-Homepage Layout
----------------
+      .. image:: _static/gallery/1.png
+         :class: gallery-img
 
-The homepage is designed to provide a clear entry point, highlighting key capabilities and navigation paths.
+   .. grid-item::
 
----
+      .. image:: _static/gallery/013_install_ap_board.png
+         :class: gallery-img
 
-Structured Navigation
----------------------
+   .. grid-item::
 
-The sidebar and internal links allow users to move efficiently between sections such as Features, Architecture, and Usage.
+      .. image:: _static/gallery/049.png
+         :class: gallery-img
 
----
+   .. grid-item::
 
-Content Organization
---------------------
+      .. image:: _static/gallery/057.png
+         :class: gallery-img
 
-Pages are structured with consistent headings and sections, improving readability and comprehension.
 
----
+.. grid:: 4
+   :gutter: 2
 
-Example Use Case
-----------------
+   .. grid-item::
 
-A typical user journey:
+      .. image:: _static/gallery/061.png
+         :class: gallery-img
 
-1. Start from the homepage  
-2. Understand the system in Overview  
-3. Explore capabilities in Features  
-4. Learn system design in Architecture  
-5. Follow instructions in Usage  
+   .. grid-item::
 
----
+      .. image:: _static/gallery/066.png
+         :class: gallery-img
 
-Notes
------
+   .. grid-item::
 
-Screenshots or diagrams can be added here to further illustrate the system.
+      .. image:: _static/gallery/068.png
+         :class: gallery-img
+
+   .. grid-item::
+
+      .. image:: _static/gallery/077.png
+         :class: gallery-img
+
+
+.. grid:: 4
+   :gutter: 2
+
+   .. grid-item::
+
+      .. image:: _static/gallery/078.png
+         :class: gallery-img
+
+   .. grid-item::
+
+      .. image:: _static/gallery/079.png
+         :class: gallery-img
+
+   .. grid-item::
+
+      .. image:: _static/gallery/080.png
+         :class: gallery-img
+
+   .. grid-item::
+
+      .. image:: _static/gallery/081.png
+         :class: gallery-img
+
+
+.. grid:: 4
+   :gutter: 2
+
+   .. grid-item::
+
+      .. image:: _static/gallery/084.jpg
+         :class: gallery-img
+
+   .. grid-item::
+
+      .. image:: _static/gallery/auxiliary-extruder.jpg
+         :class: gallery-img
+
+   .. grid-item::
+
+      .. image:: _static/gallery/flowblocker.png
+         :class: gallery-img
+
+   .. grid-item::
+
+      .. image:: _static/gallery/live-view-camera.jpg
+         :class: gallery-img

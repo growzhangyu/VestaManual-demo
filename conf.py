@@ -6,7 +6,7 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'Demo-vesta'
+project = 'A 3-D Printer'
 copyright = '2026, GrowZhangyu'
 author = 'GrowZhangyu'
 release = '0.0.1'
@@ -30,3 +30,10 @@ html_theme = 'furo'
 html_static_path = ['_static']
 html_last_updated_fmt = '%Y-%m-%d'
 extensions = ['sphinx_last_updated_by_git']
+html_static_path = ['_static']
+extensions = [
+    "sphinx_design",
+]
+html_css_files = [
+    'custom.css',
+]
