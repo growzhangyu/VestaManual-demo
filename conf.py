@@ -37,3 +37,4 @@ extensions = [
 html_css_files = [
     'custom.css',
 ]
+html_favicon = '_static/favicon.ico'
