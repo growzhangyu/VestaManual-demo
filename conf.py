@@ -28,6 +28,10 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 #html_theme = 'sphinx_rtd_theme'
 html_theme = 'furo'
 html_static_path = ['_static']
+html_theme_options = {
+    "sidebar_hide_name": False,
+}
+templates_path = ['_templates']
 html_last_updated_fmt = '%Y-%m-%d %H:%M:%S'
 extensions = ['sphinx_last_updated_by_git']
 html_static_path = ['_static']
