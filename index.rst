@@ -21,5 +21,6 @@ Let's take a look at it immediately.
    quick_start
    troubleshooting
    slicing_basics
+   about_me
    
    
