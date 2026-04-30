@@ -1,4 +1,4 @@
-About Me
+About the docs author
 ========
 
 Hello, my name is ZhangYu, graduated from Shanghai University in 2019 with a master degree in computational chemistry.
