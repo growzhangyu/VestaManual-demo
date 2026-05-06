@@ -37,12 +37,11 @@ A structured documentation project designed to help beginners understand slicing
    :caption: Contents:
 
    features
-   printing_workflow
    gallery
+   printing_workflow
    installation
    quick_start
    troubleshooting
    slicing_basics
-   about_me
    
    
